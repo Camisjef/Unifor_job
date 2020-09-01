@@ -1,3 +1,4 @@
+// github:
 // https://github.com/Camisjef/Unifor_job/blob/master/jobav1.js
 
 function contagem(numi,numf){
